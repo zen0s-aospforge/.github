@@ -4,7 +4,6 @@
 
 # zen0s-aospforge
 
-AOSP lab by <a href="https://github.com/zenzer0s">@zenzer0s</a>
 
 Device trees • Vendor bits • Build glue
 
